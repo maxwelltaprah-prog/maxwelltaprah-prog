@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 - Learning emerging technologies
 
 ## 💻 Tech Stack
-- **Languages**: JavaScript, Python, Java
+- **Languages**: JavaScript, Python, Java, C#, VB.Net, PowerPlatform Developer
 - **Frontend**: React, TypeScript, HTML/CSS
 - **Backend**: Node.js, Express
 - **Tools**: Git, GitHub, VS Code
